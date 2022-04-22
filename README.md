@@ -24,12 +24,12 @@
     </h3>
     <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
     <h1 align="center">
-      <font face="Lato" color="#017bf5" size="7">
+      <font face="Lato" color="#FF0000" size="7">
        GIỚI THIỆU BẢN THÂN TUI
       </font>
     </h1>
     <h3 align="center">
-      <font face="Lato" color="#000" size="7">
+      <font face="Lato" color="#01DF01" size="5">
   HỌC TRƯỜNG CAO ĐẲNG KỸ THUẬT CÔNG NGHỆ NHA TRANG
       </font>
     </h3>
