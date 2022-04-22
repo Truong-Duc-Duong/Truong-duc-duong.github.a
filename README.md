@@ -15,11 +15,11 @@
        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       <font face="cinzel" size="4">
-        <a href="#">TRANG CHU</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        <a href="#">SO THICH</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        <a href="#">GIA DINH</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        <a href="#">QUAN HE</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        <a href="#">NGHE NGHIEP</a>
+        <a href="#"TRANG CHU</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="#"SO THICH</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="#"GIA DINH</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="#"QUAN HE</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="#"NGHE NGHIEP</a>
       </font>
     </h3>
     <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
@@ -29,7 +29,7 @@
       </font>
     </h1>
     <h3 align="center">
-      <font face="Lato" color="#000">size="7">
+      <font face="Lato" color="#000" size="7">
   HỌC TRƯỜNG CAO ĐẲNG KỸ THUẬT CÔNG NGHỆ NHA TRANG
       </font>
     </h3>
