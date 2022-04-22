@@ -7,7 +7,7 @@
   Trương Đức Dương
   </title>
   </head>
-  <body background="12.jpg">
+  <body background="1A.jpg">
     <br />
     <h3 align="center">
       <font face="lato"size="6">LOGO</font>
