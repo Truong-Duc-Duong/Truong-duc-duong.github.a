@@ -15,27 +15,27 @@
        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       <font face="cinzel" size="4">
-        <a href="#" color="#000">HOME</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        <a href="#"color="#000" color="#000" color="#000" color="#000" VIDEO</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        <a href="#"color="#000" color="#000" color="#000" PORTFOLIO</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        <a href="#"color="#000" color="#000" BLOG</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        <a href="#"color="#000" CONTACT</a>
+        <a href="#" color="#000">TRANG CHU</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="#"color="#000" color="#000" color="#000" color="#000"SO THICH</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="#"color="#000" color="#000" color="#000" GIA DINH</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="#"color="#000" color="#000" QUAN HE</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="#"color="#000" NGHE NGHIEP</a>
       </font>
     </h3>
     <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
     <h1 align="center">
       <font face="Lato" color="#017bf5" size="7">
-        Trường CĐ KỸ THUẬT CÔNG NGHỆ NHA TRANG
+       GIỚI THIỆU BẢN THÂN TUI
       </font>
     </h1>
     <h3 align="center">
       <font face="Lato" color="#000">size="7">
-     CÔNG NGHỆ THÔNG TIN 15A
+  HỌC TRƯỜNG CAO ĐẲNG KỸ THUẬT CÔNG NGHỆ NHA TRANG
       </font>
     </h3>
     </br>
   <h3 align="center">
-    <a hred="#">GET STARTED</a>
+    <a hred="#">LƯỜI</a>
   </h3>
   </body>
   </html>
